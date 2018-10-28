@@ -1,5 +1,5 @@
 # データ解析のための統計モデリング入門
-本資料は上記の本についてまとめた
+本資料は上記の本についてのメモ
 
 ## 目次
  1. [第2章 確率分布と統計モデルの最尤推定](https://github.com/yuki33/greenbook/blob/master/Chapter2.ipynb)
