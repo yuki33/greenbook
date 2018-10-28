@@ -6,3 +6,4 @@
  2. [第3章 一般線形モデル(GLM)](https://github.com/yuki33/greenbook/blob/master/Chapter3.ipynb)
  3. [第4章 GLMのモデル選択（AICとモデルの予測の良さ）](https://github.com/yuki33/greenbook/blob/master/Chapter4.ipynb)
  4. [第5章 GLMの尤度比検定と検定の非対称性](https://github.com/yuki33/greenbook/blob/master/Chapter5.ipynb)
+ 5. [第6章 GLMの応用範囲を広げる（ロジスティック回帰など）](https://github.com/yuki33/greenbook/blob/master/Chapter6.ipynb)
